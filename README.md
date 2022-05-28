@@ -8,7 +8,7 @@
 
 ```
 [dependencies]
-chtholly_tree = "0.1.0"
+chtholly_tree = "1.0.0"
 ```
 
 ## Example
