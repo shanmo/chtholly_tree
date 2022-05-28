@@ -2,7 +2,7 @@
 name = "chtholly_tree"
 description = "Rust bindings for Chtholly Tree"
 repository = "https://github.com/shanmo/chtholly_tree.git"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 license = "MIT"
 readme = "README.md"

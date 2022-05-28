@@ -47,5 +47,6 @@ mod tests {
 
 ## Reference 
 
-This repo is developed based on 
+This repo is inspired by
+ 
 - [Crate chtholly](https://docs.rs/chtholly/latest/chtholly/)
