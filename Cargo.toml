@@ -8,6 +8,6 @@ license = "MIT"
 readme = "README.md"
 keywords = ["interval", "query", "update"]
 categories = ["data-structures", "algorithms"]
-authors = ["Mo Shan <moshan@ucsd.edu>"]
+authors = ["Mo Shan <moshan.nus@gmail.com>"]
 
 [dependencies]
