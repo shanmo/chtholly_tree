@@ -1,0 +1,13 @@
+[package]
+name = "chtholly_tree"
+description = "Rust bindings for Chtholly Tree"
+repository = "https://github.com/Darksonn/segment-tree"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+keywords = ["Chtholly Tree"]
+categories = ["data-structures", "algorithms"]
+authors = ["Mo Shan <moshan@ucsd.edu>"]
+
+[dependencies]
